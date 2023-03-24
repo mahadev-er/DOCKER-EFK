@@ -1,0 +1,1 @@
+docker run -p 127.0.0.1:24224:24224 fluent/fluent-bit /fluent-bit/bin/fluent-bit -i tail -p path=./combined.log -o stdout

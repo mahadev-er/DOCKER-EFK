@@ -1,0 +1,96 @@
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/524 HTTP/ 1.1 200 579 - 1.427 ms","status":"200","request":"/rms/apis/v1/shop/details/524","method":"GET","responseSize":"579","responseTime":"1.427"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/554 HTTP/ 1.1 200 570 - 1.422 ms","status":"200","request":"/rms/apis/v1/shop/details/554","method":"GET","responseSize":"570","responseTime":"1.422"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/554 HTTP/ 1.1 200 570 - 1.682 ms","status":"200","request":"/rms/apis/v1/shop/details/554","method":"GET","responseSize":"570","responseTime":"1.682"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/15 HTTP/ 1.1 200 580 - 1.454 ms","status":"200","request":"/rms/apis/v1/shop/details/15","method":"GET","responseSize":"580","responseTime":"1.454"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/15 HTTP/ 1.1 200 580 - 1.701 ms","status":"200","request":"/rms/apis/v1/shop/details/15","method":"GET","responseSize":"580","responseTime":"1.701"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/15 HTTP/ 1.1 200 580 - 1.657 ms","status":"200","request":"/rms/apis/v1/shop/details/15","method":"GET","responseSize":"580","responseTime":"1.657"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/524 HTTP/ 1.1 200 579 - 1.426 ms","status":"200","request":"/rms/apis/v1/shop/details/524","method":"GET","responseSize":"579","responseTime":"1.426"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/524 HTTP/ 1.1 200 579 - 1.546 ms","status":"200","request":"/rms/apis/v1/shop/details/524","method":"GET","responseSize":"579","responseTime":"1.546"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/386 HTTP/ 1.1 200 593 - 1.627 ms","status":"200","request":"/rms/apis/v1/shop/details/386","method":"GET","responseSize":"593","responseTime":"1.627"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/618 HTTP/ 1.1 200 591 - 1.647 ms","status":"200","request":"/rms/apis/v1/shop/details/618","method":"GET","responseSize":"591","responseTime":"1.647"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.539 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.539"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/554 HTTP/ 1.1 200 570 - 1.565 ms","status":"200","request":"/rms/apis/v1/shop/details/554","method":"GET","responseSize":"570","responseTime":"1.565"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/15 HTTP/ 1.1 200 580 - 1.482 ms","status":"200","request":"/rms/apis/v1/shop/details/15","method":"GET","responseSize":"580","responseTime":"1.482"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.593 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.593"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.478 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.478"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.503 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.503"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.458 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.458"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.457 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.457"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.490 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.490"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.451 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.451"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.465 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.465"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/245 HTTP/ 1.1 200 551 - 1.440 ms","status":"200","request":"/rms/apis/v1/shop/details/245","method":"GET","responseSize":"551","responseTime":"1.440"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/386 HTTP/ 1.1 200 593 - 1.425 ms","status":"200","request":"/rms/apis/v1/shop/details/386","method":"GET","responseSize":"593","responseTime":"1.425"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/618 HTTP/ 1.1 200 591 - 1.776 ms","status":"200","request":"/rms/apis/v1/shop/details/618","method":"GET","responseSize":"591","responseTime":"1.776"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/386 HTTP/ 1.1 200 593 - 1.671 ms","status":"200","request":"/rms/apis/v1/shop/details/386","method":"GET","responseSize":"593","responseTime":"1.671"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/386 HTTP/ 1.1 200 593 - 1.510 ms","status":"200","request":"/rms/apis/v1/shop/details/386","method":"GET","responseSize":"593","responseTime":"1.510"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/520 HTTP/ 1.1 200 600 - 1.464 ms","status":"200","request":"/rms/apis/v1/shop/details/520","method":"GET","responseSize":"600","responseTime":"1.464"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/618 HTTP/ 1.1 200 591 - 1.571 ms","status":"200","request":"/rms/apis/v1/shop/details/618","method":"GET","responseSize":"591","responseTime":"1.571"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/520 HTTP/ 1.1 200 600 - 2.863 ms","status":"200","request":"/rms/apis/v1/shop/details/520","method":"GET","responseSize":"600","responseTime":"2.863"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/618 HTTP/ 1.1 200 591 - 2.077 ms","status":"200","request":"/rms/apis/v1/shop/details/618","method":"GET","responseSize":"591","responseTime":"2.077"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/553 HTTP/ 1.1 200 558 - 1.923 ms","status":"200","request":"/rms/apis/v1/shop/details/553","method":"GET","responseSize":"558","responseTime":"1.923"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/520 HTTP/ 1.1 200 600 - 2.084 ms","status":"200","request":"/rms/apis/v1/shop/details/520","method":"GET","responseSize":"600","responseTime":"2.084"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/386 HTTP/ 1.1 200 593 - 1.842 ms","status":"200","request":"/rms/apis/v1/shop/details/386","method":"GET","responseSize":"593","responseTime":"1.842"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/618 HTTP/ 1.1 200 591 - 1.878 ms","status":"200","request":"/rms/apis/v1/shop/details/618","method":"GET","responseSize":"591","responseTime":"1.878"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/481 HTTP/ 1.1 200 576 - 4.577 ms","status":"200","request":"/rms/apis/v1/shop/details/481","method":"GET","responseSize":"576","responseTime":"4.577"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/shop/details/481 HTTP/ 1.1 200 576 - 1.722 ms","status":"200","request":"/rms/apis/v1/shop/details/481","method":"GET","responseSize":"576","responseTime":"1.722"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.252 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.252"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.262 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.262"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/splash HTTP/ 1.1 304  - 12.681 ms","status":"304","request":"/rms/apis/v1/splash","method":"GET","responseTime":"12.681"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/catalog/669 HTTP/ 1.1 304  - 5.407 ms","status":"304","request":"/rms/apis/v1/catalog/669","method":"GET","responseTime":"5.407"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/catalog/669 HTTP/ 1.1 304  - 5.267 ms","status":"304","request":"/rms/apis/v1/catalog/669","method":"GET","responseTime":"5.267"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/catalog/669 HTTP/ 1.1 304  - 5.293 ms","status":"304","request":"/rms/apis/v1/catalog/669","method":"GET","responseTime":"5.293"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.432 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.432"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/catalog/669 HTTP/ 1.1 304  - 5.985 ms","status":"304","request":"/rms/apis/v1/catalog/669","method":"GET","responseTime":"5.985"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.254 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.254"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/catalog/669 HTTP/ 1.1 304  - 6.763 ms","status":"304","request":"/rms/apis/v1/catalog/669","method":"GET","responseTime":"6.763"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/catalog/669 HTTP/ 1.1 304  - 5.907 ms","status":"304","request":"/rms/apis/v1/catalog/669","method":"GET","responseTime":"5.907"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.424 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.424"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.283 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.283"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/splash HTTP/ 1.1 304  - 16.775 ms","status":"304","request":"/rms/apis/v1/splash","method":"GET","responseTime":"16.775"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/catalog/15 HTTP/ 1.1 304  - 5.939 ms","status":"304","request":"/rms/apis/v1/catalog/15","method":"GET","responseTime":"5.939"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.263 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.263"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.269 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.269"}
+{ hasDummySub: false }
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/stores?limit=10&offset=2&category=null HTTP/ 1.1 404 142 - 12.618 ms","status":"404","request":"/rms/apis/v1/stores?limit=10&offset=2&category=null","method":"GET","responseSize":"142","responseTime":"12.618"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.264 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.264"}
+{ hasDummySub: false }
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/stores?limit=10&offset=2&category=null HTTP/ 1.1 200 19934 - 47.013 ms","status":"200","request":"/rms/apis/v1/stores?limit=10&offset=2&category=null","method":"GET","responseSize":"19934","responseTime":"47.013"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.251 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.251"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.295 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.295"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.261 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.261"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.252 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.252"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.271 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.271"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.256 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.256"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.249 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.249"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.253 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.253"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.252 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.252"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/splash HTTP/ 1.1 304  - 12.142 ms","status":"304","request":"/rms/apis/v1/splash","method":"GET","responseTime":"12.142"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/catalog/15 HTTP/ 1.1 304  - 15.279 ms","status":"304","request":"/rms/apis/v1/catalog/15","method":"GET","responseTime":"15.279"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/splash HTTP/ 1.1 304  - 11.728 ms","status":"304","request":"/rms/apis/v1/splash","method":"GET","responseTime":"11.728"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/catalog/15 HTTP/ 1.1 304  - 31.298 ms","status":"304","request":"/rms/apis/v1/catalog/15","method":"GET","responseTime":"31.298"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.254 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.254"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.304 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.304"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.259 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.259"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.263 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.263"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/catalog/671 HTTP/ 1.1 304  - 5.800 ms","status":"304","request":"/rms/apis/v1/catalog/671","method":"GET","responseTime":"5.800"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/catalog/671 HTTP/ 1.1 304  - 5.560 ms","status":"304","request":"/rms/apis/v1/catalog/671","method":"GET","responseTime":"5.560"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.364 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.364"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/orders?status=NEW HTTP/ 1.1 200 26 - 30.135 ms","status":"200","request":"/rms/apis/v1/orders?status=NEW","method":"GET","responseSize":"26","responseTime":"30.135"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 2.087 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"2.087"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/orders?status=NEW HTTP/ 1.1 304  - 18.629 ms","status":"304","request":"/rms/apis/v1/orders?status=NEW","method":"GET","responseTime":"18.629"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/splash HTTP/ 1.1 304  - 18.310 ms","status":"304","request":"/rms/apis/v1/splash","method":"GET","responseTime":"18.310"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/orders?status=NEW HTTP/ 1.1 304  - 19.538 ms","status":"304","request":"/rms/apis/v1/orders?status=NEW","method":"GET","responseTime":"19.538"}
+{ hasDummySub: false }
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/stores?limit=10&offset=2&category=null HTTP/ 1.1 404 142 - 19.295 ms","status":"404","request":"/rms/apis/v1/stores?limit=10&offset=2&category=null","method":"GET","responseSize":"142","responseTime":"19.295"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/orders?status=PROCESSING HTTP/ 1.1 200 26 - 32.492 ms","status":"200","request":"/rms/apis/v1/orders?status=PROCESSING","method":"GET","responseSize":"26","responseTime":"32.492"}
+{ hasDummySub: false }
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/stores?limit=10&offset=2&category=null HTTP/ 1.1 404 142 - 8.332 ms","status":"404","request":"/rms/apis/v1/stores?limit=10&offset=2&category=null","method":"GET","responseSize":"142","responseTime":"8.332"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/orders?status=ACCEPTED HTTP/ 1.1 200 26 - 13.790 ms","status":"200","request":"/rms/apis/v1/orders?status=ACCEPTED","method":"GET","responseSize":"26","responseTime":"13.790"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.260 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.260"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/healthcheck HTTP/ 1.1 200 97 - 0.254 ms","status":"200","request":"/rms/apis/healthcheck","method":"GET","responseSize":"97","responseTime":"0.254"}
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/orders?status=NEW HTTP/ 1.1 304  - 21.141 ms","status":"304","request":"/rms/apis/v1/orders?status=NEW","method":"GET","responseTime":"21.141"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/orders?status=ACCEPTED HTTP/ 1.1 304  - 17.471 ms","status":"304","request":"/rms/apis/v1/orders?status=ACCEPTED","method":"GET","responseTime":"17.471"}
+{"msg":"::ffff:10.20.2.216  GET /rms/apis/v1/orders?status=PROCESSING HTTP/ 1.1 304  - 27.209 ms","status":"304","request":"/rms/apis/v1/orders?status=PROCESSING","method":"GET","responseTime":"27.209"}
+{ hasDummySub: false }
+{"msg":"::ffff:10.20.3.230  GET /rms/apis/v1/stores?limit=10&offset=2&category=null HTTP/ 1.1 200 19934 - 78.717 ms","status":"200","request":"/rms/apis/v1/stores?limit=10&offset=2&category=null","method":"GET","responseSize":"19934","responseTime":"78.717"}
